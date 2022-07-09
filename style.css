@@ -214,8 +214,8 @@ ul {
 .wave {
     font-size: 2rem;
     line-height: 1rem;
-    text-decoration: wavy line-through;
-    text-decoration-color: #fdf395;
+    text-decoration: wavy line-through #fdf395;
+    -webkit-text-decoration: wavy line-through #fdf395;
     margin: 10px auto;
 }
 
