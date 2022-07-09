@@ -1,13 +1,12 @@
 <p align="center"> <img src="https://user-images.githubusercontent.com/104512014/177401984-e07989cc-5ed9-4b0e-bf41-db54062f9b2a.png" width="400px"/> </p>
 
 ## About
+
 This is a static website homepage for a recreational club, made as part of Codecademy's Frontend Engineer Career Path. I'm an avid reader and love chatting about books, so I chose to create a made-up book club called Read'in.
 
 This was a completely solo project, with only rough guidance and no starter code from Codecademy. 100% designed and coded by me.
 
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-video.svg" width="25" height="25">[ Video Demo](https://www.dropbox.com/s/pjde22ji48dt8i0/readin-screenrecord.mp4?dl=0)
-
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">[ Live Site](https://emmaclarem.github.io/readin-club-website/)
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">[ View Live Site](https://emmaclarem.github.io/readin-club-website/)
 
 ## Objective
 **From Codecademy:** In this project, you’ll be building your own club group page that will dynamically respond as you adjust the size of your screen!​ Your project should demonstrate many of the responsive design tools you learned.
@@ -32,10 +31,8 @@ This was a completely solo project, with only rough guidance and no starter code
 7. Using FontAwesome icons
 
 ## View Site
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/regular/file-video.svg" width="25" height="25">[ Video Demo](https://www.dropbox.com/s/pjde22ji48dt8i0/readin-screenrecord.mp4?dl=0)
+<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">[ View Live Site](https://emmaclarem.github.io/readin-club-website/)
 
-<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25">[ Live Site](https://emmaclarem.github.io/readin-club-website/)
-
-<a href='https://www.dropbox.com/s/pjde22ji48dt8i0/readin-screenrecord.mp4?dl=0'><img width="600" alt="Read'in" src="https://user-images.githubusercontent.com/104512014/177406242-855760b6-d937-4f2a-85a1-c98e418292d9.jpg"></a>
+<a href='https://www.dropbox.com/s/pjde22ji48dt8i0/readin-screenrecord.mp4?dl=0'><img width="600" alt="Read'in" src="https://user-images.githubusercontent.com/104512014/178106794-7e9a565f-c057-43cf-a68d-7fea90fe745a.jpg"></a>
 
 <a href='https://www.freepik.com/psd/multi-device'>Multi device psd created by syifa5610 - www.freepik.com</a>
