@@ -1,4 +1,18 @@
-/* -------- GENERAL -------- */
+/*=======================
+TABLE OF CONTENTS 
+
+1. GLOBAL STYLES
+2. TEXT STYLES
+3. LAYOUT STYLES
+4. BUTTONS & LINKS STYLES
+5. DIVIDER STYLES
+6. FOOTER STYLES
+=======================*/
+
+
+/*=======================
+1. GLOBAL STYLES
+=======================*/
 
 @font-face {
     font-family: 'Liesmo';
@@ -21,7 +35,10 @@ body * {
     padding: 0;
 }
 
-/* -------- TEXT STYLES -------- */
+
+/*=======================
+2. TEXT STYLES
+=======================*/
 
 h1, h2, h3, h4, p, li, a {
     text-align: center;
@@ -84,7 +101,11 @@ p {
     }
 }
 
-/* -------- FLEXBOX & LAYOUT STYLES -------- */
+
+/*=======================
+3. LAYOUT STYLES
+=======================*/
+
 .row {
     display: flex;
     width: min(775px, 98%);
@@ -154,7 +175,10 @@ img {
     }
 }
 
-/* -------- BUTTONS & LINKS STYLES -------- */
+
+/*=======================
+4. BUTTONS & LINKS STYLES
+=======================*/
 
 .btn {
     background-color: #fdf395;
@@ -225,7 +249,10 @@ ul {
     filter: invert(67%) sepia(4%) saturate(6863%) hue-rotate(187deg) brightness(83%) contrast(88%);
 }
 
-/* -------- WAVE DIVIDER -------- */
+
+/*=======================
+5. DIVIDER STYLES
+=======================*/
 
 .wave {
     font-size: 2rem;
@@ -244,7 +271,10 @@ ul {
     color: #ee8352;
 }
 
-/* -------- FOOTER --------*/
+
+/*=======================
+6.FOOTER STYLES
+=======================*/
 
 .footer {
     margin: 20px auto;
